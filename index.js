@@ -1,7 +1,7 @@
 const ethers = require('ethers');
 
-function verify(message, signature) {
+function verifyMessage(message, signature) {
     return ethers.utils.verifyMessage(message, signature);
 }
 
-module.exports = verify;
+module.exports = verifyMessage;

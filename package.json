@@ -1,5 +1,5 @@
 {
-  "name": "verify",
+  "name": "verifymessage",
   "version": "1.0.0",
   "description": "A module to verify message in Ethereum network",
   "main": "index.js",
