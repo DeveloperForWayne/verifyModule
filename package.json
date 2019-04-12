@@ -1,0 +1,14 @@
+{
+  "name": "verify",
+  "version": "1.0.0",
+  "description": "A module to verify message in Ethereum network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wei Matt",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^4.0.27"
+  }
+}
