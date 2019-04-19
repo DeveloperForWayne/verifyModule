@@ -1,6 +1,6 @@
 {
   "name": "verifymessage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A module to verify message in Ethereum network",
   "main": "index.js",
   "scripts": {
